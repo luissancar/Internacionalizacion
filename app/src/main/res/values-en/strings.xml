@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internacionalization</string>
+    <string name="texto">This is the text 1</string>
+    <string name="texto2">This is the text 2</string>
+    <string name="texto3">This is the text 3</string>
+</resources>
